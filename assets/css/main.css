@@ -2747,7 +2747,7 @@ input, select, textarea {
 		}
 
 		#header .logo {
-			background: #00788C;
+			background: #236192;
 			border-radius: 100%;
 			color: #ffffff;
 			cursor: default;
@@ -2780,7 +2780,7 @@ input, select, textarea {
 
 	#footer {
 		background-attachment: scroll;
-		background-color: #00788C;
+		background-color: #236192;
 		background-image: url("images/bottom-3200.svg");
 		background-position: top center;
 		background-repeat: repeat-x;
